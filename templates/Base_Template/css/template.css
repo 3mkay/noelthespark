@@ -2410,3 +2410,11 @@ ul.bt-vmenu a .t, ul.bt-vmenu ul a, ul.bt-vmenu a .t, ul.bt-vmenu ul a {
 .bt-post, .bt-post {
     margin: 0 15px 15px;
 }
+
+#mainlevel .active {
+    background-color: rgba(206,28,183,1)!important;
+}
+
+#mainlevel li:hover {
+    background-color: rgba(108,15,95,1)!important;
+}
