@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /consulting
+permalink: /electrical-testing-electrician-newtownabbey
 title: Electrical Testing
 ---
 <h1>Electrical Testing in the Greater Belfast areas</h1><p>  
