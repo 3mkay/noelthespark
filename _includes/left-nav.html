@@ -1,6 +1,6 @@
 <ul class="bt-vmenu" id="mainlevel">
     {% for post in site.posts %}
-        <li class="{% if page.url == post.url %}active{% endif %}"><a href="{{ post.url }}"><span class="l"></span><span class="r"></span><span
+        <li{% if page.url == post.url %} class="active"{% endif %}><a href="{{ post.url }}"><span class="l"></span><span class="r"></span><span
                 class="t">{% if post.url == '/index.php' %}Home{% else %}{{ post.title }}{% endif %}</span></a></li>
     {% endfor %}
     <!--
