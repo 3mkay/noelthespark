@@ -1,0 +1,15 @@
+---
+title: Little Noel
+subtitle: The real brains behind NTS!
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: little-noel.jpg
+thumbnail: little-noel-thumb.jpg
+alt: Little Noel
+project-date: April 2014
+client: NTS Electrical Services
+category: Team
+description: 
+
+---
